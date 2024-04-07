@@ -46,7 +46,7 @@ python -m main <cifar100_convprompt or imr_convprompt or cub_convprompt> \
 
 ## Acknowledgement
 
-The implementation heavily based on the  [DualPrompt](https://github.com/JH-LEE-KR/dualprompt-pytorch) Implementation.
+This repo is heavily based on the  [DualPrompt](https://github.com/JH-LEE-KR/dualprompt-pytorch) Implementation.
 
 
 
