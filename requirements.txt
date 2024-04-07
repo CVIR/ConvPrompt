@@ -1,0 +1,13 @@
+matplotlib==3.5.3
+numpy==1.20.3
+Pillow==10.3.0
+requests==2.26.0
+scikit_learn==1.4.1.post1
+scipy==1.7.1
+sentence_transformers==2.6.1
+six==1.16.0
+submitit==1.5.1
+timm==0.6.7
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.39.3
